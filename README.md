@@ -17,4 +17,4 @@ Agent registration using GUID
 Kill PID if necessary - Optional
 Set refresh rate - Optional
 
-<Built upon worker-service template>
+Built upon worker-service template
