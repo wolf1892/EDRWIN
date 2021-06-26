@@ -16,3 +16,5 @@ Run Yara rules based on PID.
 Agent registration using GUID
 Kill PID if necessary - Optional
 Set refresh rate - Optional
+
+<Built upon worker-service template>
